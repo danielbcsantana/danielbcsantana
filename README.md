@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Daniel
 
-🎓 Computer Science Student  @UFBA (Universidade Federal da Bahia)
+🎓 Computer Science Student  @ufba
 💻 Interested in Software engineering and Quantum Computing  
 🚀 Currently learning Python, Django and Git  
 
@@ -20,15 +20,6 @@
 - Quantum Computing
 - Web Development
 
----
-
-## 📈 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
-
----
-
 ## 📫 Contact
-- LinkedIn: your-linkedin
-- Email: your-email
+- LinkedIn: https://www.linkedin.com/in/danielbcsantana/
+- Email: d.barreto@ufba.br
