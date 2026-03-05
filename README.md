@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi there 👋 I'm Daniel
 
-<!--
-**danielbcsantana/danielbcsantana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student  @UFBA (Universidade Federal da Bahia)
+💻 Interested in Software engineering and Quantum Computing  
+🚀 Currently learning Python, Django and Git  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technologies & Tools
+- Python
+- Django
+- C++
+- Git & GitHub
+- Linux
+
+
+---
+
+## 📚 Currently Learning
+- Quantum Computing
+- Web Development
+
+---
+
+## 📈 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+
+---
+
+## 📫 Contact
+- LinkedIn: your-linkedin
+- Email: your-email
