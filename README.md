@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Daniel
 
-🎓 Computer Science Student @ufba
+🎓 Computer Science Student - @ufba
 💻 Interested in Software engineering and Quantum Computing  
 🚀 Currently learning Python, Django and Git  
 
