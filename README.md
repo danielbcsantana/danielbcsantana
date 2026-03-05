@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Daniel
 
-🎓 Computer Science Student - Universidade Federal da Bahia (UFBA)
+🎓 Computer Science Student - Universidade Federal da Bahia (UFBA)                            
 💻 Interested in Software engineering and Quantum Computing  
 🚀 Currently learning Python, Django and Git  
 
