@@ -11,8 +11,6 @@
 - Django
 - C++
 - Git & GitHub
-- Linux
-
 
 ---
 
