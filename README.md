@@ -2,15 +2,15 @@
 
 🎓 Computer Science Student - Universidade Federal da Bahia (UFBA)                            
 💻 Interested in Software engineering and Quantum Computing  
-🚀 Currently learning Python, Django and Git  
+🚀 Currently learning Qiskit 
 
 ---
 
 ## 🔧 Technologies & Tools
 - Python
-- Django
 - C++
 - Git & GitHub
+- DSA
 
 ---
 
