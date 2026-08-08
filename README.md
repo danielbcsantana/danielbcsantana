@@ -1,6 +1,7 @@
 # Hi there 👋 I'm Daniel
 
-🎓 Computer Science Student - Universidade Federal da Bahia (UFBA)                            
+🎓 Computer Science Student - Universidade Federal da Bahia (UFBA) 
+Data & Analytics Intern @PetroReconcavo
 💻 Interested in Data Analytics, Data Engineering e Data Science 
 🚀 Currently learning DataBricks
 
