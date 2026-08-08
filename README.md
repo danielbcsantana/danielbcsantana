@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:38BDF8&height=180&section=header&text=Daniel&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=45" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:38BDF8&height=180&section=header&text=Daniel Santana&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=45" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Data+%26+Analytics+Intern+%40+PetroReconcavo;Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+%40+UFBA" alt="Typing SVG"/>
 
